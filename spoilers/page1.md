@@ -5,4 +5,4 @@ It means it's officially working!
 
 Have fun forking this template!
 
-<a href="/">Previous Page</a>
+<a href="/README.md">Previous Page</a>
